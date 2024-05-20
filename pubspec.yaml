@@ -1,7 +1,7 @@
 name: getx_module
 description: "Help Applying GetX in Flutter"
 #publish_to: 'none'
-repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/getx_module
 
 version: 1.0.0+1
 
@@ -12,10 +12,12 @@ dependencies:
   flutter:
     sdk: flutter
   june_flow_util:
+  get: #@add
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
   widget_binding_module: #@add
 
 flutter:

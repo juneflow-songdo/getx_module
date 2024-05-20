@@ -8,7 +8,7 @@ Future<void> readyBeforeRunApp() async {
   _done = true;
   
   await readyForWidgetBindingModule();
-  await readyForGetxModule();
+  await readyForGetXModule();
 
 
 }

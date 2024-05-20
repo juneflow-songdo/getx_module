@@ -2,6 +2,6 @@ import 'package:flutter/material.dart';
 import '../../../../../../main.dart';
 
 // @CoverRunApp()
-// Widget coverGetxModule(Widget widget) {
+// Widget coverGetXModule(Widget widget) {
 //   return widget;
 // }
